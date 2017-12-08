@@ -1,0 +1,6 @@
+core: rcl use
+math: rcl use
+
+160 set-precision
+    
+( 100 ! 0 [ swap 10 divrem ] 160 times ) sum
