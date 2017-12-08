@@ -5,7 +5,8 @@ plan:
 projects:
   nodejs:
     root: /nodejs-project
+    buildCommand: cd /project/target && npm install
     runner:
       name: node
       version: latest
-      buildCommand: cd /project/target && npm install
+      
