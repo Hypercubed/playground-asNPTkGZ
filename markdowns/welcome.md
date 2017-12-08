@@ -7,7 +7,7 @@ The source code is on [GitHub](https://github.com/TechDotIO/nodejs-template), pl
 
 # Hands-on Demo
 
-@[FFCode Here]({ "stubs": ["universe.ff"], "command": "node_modules/mocha/bin/f-flat" })
+@[FFCode Here]({ "stubs": ["universe.js"], "command": "node universe.js" })
 
 
 # Template Resources
