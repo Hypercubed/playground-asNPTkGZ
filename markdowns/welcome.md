@@ -7,7 +7,7 @@ The source code is on [GitHub](https://github.com/TechDotIO/nodejs-template), pl
 
 # Hands-on Demo
 
-@[FFCode Here]({ "stubs": ["usr.ff"], "command": "./node_modules/.bin/f-flat 'usr.ff' read eval" })
+@[FFCode Here]({ "stubs": ["usr.ff"], "command": "./node_modules/.bin/f-flat \"usr.ff\" read eval" })
 
 # Template Resources
 
