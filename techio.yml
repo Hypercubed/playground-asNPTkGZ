@@ -8,3 +8,4 @@ projects:
     runner:
       name: node
       version: latest
+      buildCommand: cd /project/target && npm install
