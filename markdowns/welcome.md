@@ -7,12 +7,7 @@ The source code is on [GitHub](https://github.com/TechDotIO/nodejs-template), pl
 
 # Hands-on Demo
 
-@[FFCode Here]({ "stubs": ["universe.js"], "command": "node universe.js" })
-
-```javascript runnable
-console.log(f);
-```
-
+@[FFCode Here]({ "stubs": ["usr.ff"], "command": "./node_modules/.bin/f-flat < usr.ff" })
 
 # Template Resources
 
