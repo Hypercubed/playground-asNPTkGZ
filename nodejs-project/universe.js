@@ -1,13 +1,15 @@
-function countAllStars(galaxies) {
-  var totalStars = 0;
-  galaxies.forEach(function(stars) {
-    totalStars = stars; // fix me
-  }, this);
-  return totalStars;
-}
-
 // { autofold
-module.exports = {
-  countAllStars: countAllStars
-};
+const { Stack } = require('@hypercubed/f-flat');
+
+const f = new Stack();
 // }
+
+f.eval(`
+
+    core: rcl use
+    math: rcl use
+
+    160 set-precision
+
+`).stack;
+
