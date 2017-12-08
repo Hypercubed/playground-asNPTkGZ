@@ -7,13 +7,8 @@ The source code is on [GitHub](https://github.com/TechDotIO/nodejs-template), pl
 
 # Hands-on Demo
 
-```javascript runnable
-console.log('Hello World!');
-```
+@[FFCode Here]({ "stubs": ["universe.ff"], "command": "node_modules/mocha/bin/f-flat" })
 
-@[Luke, how many stars are there in these galaxies?]({ "stubs": ["universe.js"], "command": "node_modules/mocha/bin/mocha universe.spec.js --reporter list" })
-
-Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/nodejs-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
 
 # Template Resources
 
