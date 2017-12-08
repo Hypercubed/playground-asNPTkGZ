@@ -7,7 +7,7 @@ The source code is on [GitHub](https://github.com/TechDotIO/nodejs-template), pl
 
 # Hands-on Demo
 
-@[FFCode Here]({ "stubs": ["usr.ff"], "command": "cat ./src/ff-lib/usr.ff | ./node_modules/.bin/f-flat" })
+@[FFCode Here]({ "stubs": ["usr.ff"], "command": "cat usr.ff | ./node_modules/.bin/f-flat" })
 
 # Template Resources
 
