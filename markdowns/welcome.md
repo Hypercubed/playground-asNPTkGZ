@@ -9,6 +9,10 @@ The source code is on [GitHub](https://github.com/TechDotIO/nodejs-template), pl
 
 @[FFCode Here]({ "stubs": ["universe.js"], "command": "node universe.js" })
 
+```javascript runnable
+console.log(f);
+```
+
 
 # Template Resources
 
